@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaat91
+- 👋 Hi, I’m Alaa Taleb
 - 👀 I’m interested in software engineering, back-end development, micro-service architcher, frontend development and code quality code craftsmanship
 - 🌱 I’m currently learning ReactJS, Springboot, AWS
 - 📫 How to reach me www.linkedin.com/in/alaa-taleb-00a10b137
