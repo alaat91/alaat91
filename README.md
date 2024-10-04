@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS, .NET, and cloud computing.
 - 📫 How to reach me www.linkedin.com/in/alaa-taleb-00a10b137
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I forget my phone everywhere I go
+- ⚡ Fun fact: I keep forgetting my phone wherever I go.
 
 <!---
 alaat91/alaat91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
